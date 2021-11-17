@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CalculatorApp-master.iml" filepath="$PROJECT_DIR$/.idea/modules/CalculatorApp-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalculatorApp-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalculatorApp-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unit_converter_android_app.iml" filepath="$PROJECT_DIR$/.idea/unit_converter_android_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/unit_converter_android_app.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/unit_converter_android_app.app.iml" />
     </modules>
   </component>
 </project>
